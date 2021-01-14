@@ -1,18 +1,6 @@
 
 *{
     box-sizing: border-box;
-    font-family: "Cerebri Sans",sans-serif;
-}
-
-body {
-    margin: 0;
-    font-family: "Cerebri Sans",sans-serif;
-    font-size: .9375rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #12263f;
-    text-align: left;
-    background-color: #f9fbfd;
 }
 
 .fe {
@@ -299,7 +287,6 @@ input[type=checkbox]:checked + label.strikethrough{
     height: 1.625rem;
     font-size: .54167rem;
 }
-
 
 a {
     color: #2c7be5;
